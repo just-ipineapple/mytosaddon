@@ -1,3 +1,3 @@
 # mytosaddon
-Final and Draft Addon
+Addons repository for Tree of Savior 
 
